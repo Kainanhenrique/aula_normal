@@ -7,3 +7,5 @@ function tabuada(numero) {
 }
 
 tabuada(3);
+
+//criei um comentario no git hub
